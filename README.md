@@ -19,9 +19,5 @@
 (7) 日志查看模块<br> 
    此模块只可以由系统管理员操作。 <br> 
    
-界面展示：
--------
-（1）登录界面：<br>
-![image](https://github.com/xbqcsdn/image/blob/master/image/login.png) <br> 
 
 
